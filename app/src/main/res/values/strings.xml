@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">GYMTASTIK</string>
+
+    <!-- Nav drawer strings Starts-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawe</string>
+    <!-- Menu labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_activity">My Activity</string>
+    <!-- Toolbar titles -->
+    <string-array name="nav_items">
+        <item>Home</item>
+        <item>My Activity</item>
+    </string-array>
+    <string name="title_activity_nav">NavActivity</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- My activity strings -->
+    <string-array name="activityTitle">
+        <item>Strength</item>
+        <item>Endurance</item>
+        <item>Balance</item>
+        <item>Flexibility</item>
+    </string-array>
+
+    <string-array name="activitySubtitle">
+        <item>Muscles workout</item>
+        <item>Overall fitness workout</item>
+        <item>Stability workout</item>
+        <item>Agility workout</item>
+    </string-array>
+</resources>
